@@ -1,0 +1,25 @@
+h1{
+    text-align:center
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 50px;
+    display: block;
+    text-align: right;
+}
+.navbar a:hover{
+    background-color:rgb(78, 78, 78)
+}
+.navbar li{
+    float: right;
+}
